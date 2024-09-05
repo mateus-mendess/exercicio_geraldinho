@@ -1,0 +1,8 @@
+# Ignorar a pasta venv/ (ambiente virtual)
+venv/
+
+# Ignorar a pasta .vscode/ (configurações de IDE)
+.vscode/
+
+# Ignorar a pasta __pycache__/
+**__pycache__/
